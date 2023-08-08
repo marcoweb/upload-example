@@ -1,6 +1,6 @@
 <?php
 require './vendor/autoload.php';
-
+// Teste
 use Application\DBConnection\MySQLConnection;
 
 $db = new MySQLConnection();
